@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Here is a list of my skills that I actively use. However, I have worked in highly varied projects due to which I have experience with other technologies too. Kindly check my resume and <u><a href="linkedin.com/in/rinichandra7/">LinkedIn profile</a></u> for the same.
+            Here is a list of my skills that I actively use. I have worked in highly varied projects and have experience with other technologies too. Kindly check my resume and <u><a href="linkedin.com/in/rinichandra7/">LinkedIn profile</a></u> for the same.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
