@@ -11,7 +11,7 @@ export default function About() {
                 apps.
               </h1>
               <p className="mb-8 leading-relaxed">
-                I am a software developer with over 3 years of experience in the IT industry. While I am primarily interested in Frontend development, I have contributed to a highly diverse set of projects, which have made me skilled at picking up new technologies fast. I love working on new ideas, growing and learning as I go.
+                I am a software developer with 4 years of experience in the IT industry. While I am primarily interested in Frontend development, I have contributed to a highly diverse set of projects, which have made me skilled at picking up new technologies fast. I love working on new ideas, growing and learning as I go.
               </p>
               <div className="flex justify-center">
                 <a
